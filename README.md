@@ -14,6 +14,8 @@ Projeto construído durante o curso Full Stack Javascript da OneBitCode
 <br/>
 -CSS
 <br/>
+JavaScript
+<br/>
 -Git e Github
 
 ## Contato
