@@ -6,7 +6,7 @@ Jogo da velha
 
 Projeto construído durante o curso Full Stack Javascript da OneBitCode
 
-[Clique aqui para acessar](https://igormolinals.github.io/jogodavelha/)
+[Clique aqui para acessar](https://igormolinals.github.io/Jogo-da-velha/)
 
 ## Tecnologias
 
